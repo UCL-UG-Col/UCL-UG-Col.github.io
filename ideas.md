@@ -1,0 +1,7 @@
+This document consists of some of the ideas about potential events the colloquium could host.
+
+1. graduate level talks - invite grad students of the department (both math and stat?) to talk about their research but still aimed at undergrad, say year 2 undergrads.
+
+2. specials - a series of talks on a fixed topic, either a mathematician or a problem. this could be lasting for say 4 hours, with 3 hour-long talks, some breaks in between, and some q and a after each talk. such speicals could invite one faculty member from the department, one undergrad and one grad, which gives an hour long talk each at varying levels or asepects. One special could be about John Conway, since he has done things less mathematical (game of life) and more mathematical (conway group, monstrous moonshine etc). We can do a lucky draw among the audiences to incentivise them to join, say give out a copy of Conway's biography. This may need some money from the faculty to set up a coffee break and such, but if that is too complicated we will make do with our own money since some biscuits wont cost much anyway. 
+
+3. faculty talk - invite faculty members to talk about their own research, as well as their experience of doing mathematics, at an undergrad level. the talk could be for around 45 minutes, with 15 minutes q and a. or, 1 hour talk and 20 minutes q and a. We can ask one faculty from each research area (analysis, geom topo, NT, algebra, applied math etc) quite interested in CORU. 
